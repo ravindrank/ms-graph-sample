@@ -1,4 +1,4 @@
-# How to run the completed project
+# MS Graph API Tutorial Sample
 
 ## Prerequisites
 
